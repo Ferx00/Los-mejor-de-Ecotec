@@ -1,5 +1,5 @@
 # Los-mejor-de-Ecotec
 Ejercicio en Clase
-Rama 2: Maria Lopez
+Rama 3: Erick Aguilar
 
-Me presento, me llamo Bryan Tapia, tengo 21 años, estudio en la Ecotec. Estoy en 4to semestre y curso Ingeniería en Sistemas Inteligentes, enfocada en Ingeniería de Redes (Network Engineering).
+Me presento, me llamo Erick Aguilar, tengo 22 años, soy estudiante de la Ecotec. Actualmente estoy en 4to semestre, estudiando Ingeniería en Sistemas Inteligentes con interés en inteligencia artificial.
