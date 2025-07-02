@@ -1,6 +1,5 @@
 # Los-mejor-de-Ecotec
 Ejercicio en Clase
-Me presento me llamo Jhon Hernandez , tengo 20 años , estudio en la ecotec
-me encuentro es 4to semestre , estudio Ingenieria en sistemas inteligentes 
-para ser más específicos. 
+Rama 2: Maria Lopez
 
+Me presento, me llamo Bryan Tapia, tengo 21 años, estudio en la Ecotec. Estoy en 4to semestre y curso Ingeniería en Sistemas Inteligentes, enfocada en Ingeniería de Redes (Network Engineering).
