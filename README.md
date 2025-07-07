@@ -1,5 +1,3 @@
-# Los-mejor-de-Ecotec
-Ejercicio en Clase
-Rama 3: Erick Aguilar
+Los Mejores de Ecotec
 
-Me presento, me llamo Erick Aguilar, tengo 22 años, soy estudiante de la Ecotec. Actualmente estoy en 4to semestre, estudiando Ingeniería en Sistemas Inteligentes con interés en inteligencia artificial.
+Practica de creación de rama y unión en Github
